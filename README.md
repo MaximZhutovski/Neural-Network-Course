@@ -1,4 +1,4 @@
-# Deep Learning Projects Overview
+## Deep Learning Projects Overview
 This repository showcases two deep learning projects I completed as part of my academic work. Each project applies core deep learning techniques to a real-world problem, demonstrating my understanding of neural network design, training procedures, and evaluation strategies in both computer vision and natural language processing.
 
 # Project 1: CNN for Handwritten Digit Classification (MNIST)
