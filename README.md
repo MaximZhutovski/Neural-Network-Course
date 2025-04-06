@@ -14,11 +14,11 @@ problem, demonstrating my understanding of neural network design, training proce
 ## Project 2: XOR Neural Network (Extended Model)  
 **Goal:** Create a flexible, modular MLP architecture to solve the XOR problem with configurable design.  
 **Techniques Used:**  
-Defined dynamic hidden layer size and optional input-output bypass connections.   
-Used a custom BTU activation function with tunable temperature.  
-Refactored the model into modular classes for reusability and clarity.  
-Added GPU support and configurable parameter initialization.  
-Frameworks: PyTorch  
+1.Defined dynamic hidden layer size and optional input-output bypass connections.   
+2.Used a custom BTU activation function with tunable temperature.  
+3.Refactored the model into modular classes for reusability and clarity.  
+4.Added GPU support and configurable parameter initialization.  
+5.Frameworks: PyTorch  
 
 
 ## Project 3: CNN for Handwritten Digit Classification (MNIST)  
